@@ -5,7 +5,7 @@
 Loads webmentions from [https://webmention.io](https://webmention.io)
 
 I will write a tutorial soon on how to set up webmentions with Gridsome using this plugin, in the meantime if you don't know what a webmention is give 
-this a read: (https://en.wikipedia.org/wiki/Webmention)[https://en.wikipedia.org/wiki/Webmention]
+this a read: [https://en.wikipedia.org/wiki/Webmention](https://en.wikipedia.org/wiki/Webmention)
 
 ## Install
 - `npm install @zefman/gridsome-source-webmentions`
