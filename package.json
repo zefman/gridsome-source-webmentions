@@ -1,0 +1,32 @@
+{
+  "name": "gridsome-source-webmention",
+  "version": "0.1.0",
+  "description": "Gridsome source plugin to load webmentions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "webmentions"
+  ],
+  "author": "Jozef Maxted <hello@jozefmaxted.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zefman/gridsome-source-webmentions/issues"
+  },
+  "homepage": "https://github.com/zefman/gridsome-source-webmentions#readme",
+  "peerDependencies": {
+    "gridsome": "0.x"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "camelcase-keys": "^6.2.2"
+  }
+}
