@@ -1,6 +1,6 @@
 {
   "name": "@zefman/gridsome-source-webmention",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gridsome source plugin to load webmentions",
   "main": "index.js",
   "scripts": {
