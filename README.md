@@ -1,4 +1,4 @@
-# @zefman/gridsome-source-webmentions
+# @zefman/gridsome-source-webmention
 
 > Webmentions source for Gridsome 💬
 
@@ -8,8 +8,8 @@ I will write a tutorial soon on how to set up webmentions with Gridsome using th
 this a read: [https://en.wikipedia.org/wiki/Webmention](https://en.wikipedia.org/wiki/Webmention)
 
 ## Install
-- `npm install @zefman/gridsome-source-webmentions`
-- `yarn add @zefman/gridsome-source-webmentions`
+- `npm install @zefman/gridsome-source-webmention`
+- `yarn add @zefman/gridsome-source-webmention`
 
 ## Usage
 
@@ -19,7 +19,7 @@ Add the plugin in `gridsome.config.js`
 export default {
   plugins: [
     {
-      use: '@zefman/gridsome-source-webmentions',
+      use: '@zefman/gridsome-source-webmention',
       options: {
         domain: 'pixelhop.io', // Your webmention domain
         token: 'your-token', // Your secret webmention token
