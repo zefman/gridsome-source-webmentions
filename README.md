@@ -4,8 +4,11 @@
 
 Loads webmentions from [https://webmention.io](https://webmention.io)
 
-I will write a tutorial soon on how to set up webmentions with Gridsome using this plugin, in the meantime if you don't know what a webmention is give 
+If you don't know what a webmention is give 
 this a read: [https://en.wikipedia.org/wiki/Webmention](https://en.wikipedia.org/wiki/Webmention)
+
+Setting up webmentions is quite an involved process, I wrote a step by step guide here:
+[Pixelhop: Getting Started with Gridsome Webmentions](https://pixelhop.io/writing/2020/05/get-started-with-webmentions-in-gridsome/)
 
 ## Install
 - `npm install @zefman/gridsome-source-webmention`
@@ -58,5 +61,4 @@ Example query to load a pages webmentions
 
 ## Todo
 
-* Write blog post explaining usage
 * Handle webmention.io pagination. Currently limited to 2000 mentions
